@@ -1,0 +1,60 @@
+
+
+body {
+    background-color: #e0f7fa; /* Color de fondo de la página */
+}
+
+
+.navbar-nav {
+    justify-content: center; /* Centramos los elementos del menú */
+}
+
+.navbar-nav .nav-link {
+    margin-right: 15px; /* Espacio entre enlaces */
+}
+
+
+
+.table {
+    background-color: white;
+    border-radius: 8px;
+    margin: auto; /* Centramos la tabla */
+}
+
+.thead-dark {
+    background-color: #343a40;
+    color: white;
+}
+
+
+
+.card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+
+.footer {
+    background-color: #007bff; /* Color azul del pie de página */
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer .row {
+    justify-content: space-between;
+    padding: 0 40px;
+}
+
+
+.card {
+    margin: 20px auto; /* Centramos las tarjetas */
+    max-width: 100%; /* Ajustamos el ancho */
+}
+
+.text-center {
+    text-align: center;
+}
